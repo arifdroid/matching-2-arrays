@@ -1,0 +1,15 @@
+{
+  "name": "matching_data_2_arrays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "execution-time": "^1.4.1",
+    "random-words": "^1.1.1"
+  }
+}
